@@ -49,7 +49,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh9460&theme=tokyonight)
 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=lokesh9460&count_private=true&theme=radical&show_icons=true" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lokesh9460&count_private=true&theme=radical)
 
 ---
 
