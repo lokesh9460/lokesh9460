@@ -1,59 +1,55 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  
-</div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=lokesh9460&label=Profile%20views&color=brightgreen&style=flat" alt=""/>
+# Hi, I'm Lokesh 👋
 
-### Hi there 👋 I'm Lokesh
+[![Profile views](https://komarev.com/ghpvc/?username=lokesh9460&color=0e75b6)](https://github.com/lokesh9460)
 
+## 📊 GitHub status
 
+- GitHub: [@lokesh9460](https://github.com/lokesh9460)
+- Major stats (dynamic cards below): contributions, languages, streaks, trophies, and activity graph.
 
-- 🌱 I’m currently learning ...
-
-
-## :email: Find me on:
-
+## 🔥 Live GitHub cards
 
 <p align="center">
-
- <a href="https://www.linkedin.com/in/lokesh283204" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:lokeshkumar.283204@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh9460&show_icons=true&count_private=true&hide_title=true&theme=gruvbox" alt="Lokesh's GitHub Stats"/>
 </p>
-
-<br />
-
-
-### 🛠 &nbsp;Languages and Tools :
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh9460&layout=compact&hide_title=true&langs_count=8&theme=gruvbox" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh9460&theme=gruvbox" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lokesh9460&theme=gruvbox&no-frame=true&margin-w=10" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=lokesh9460&theme=react-dark&area=true&hide_border=true" alt="Contribution graph"/>
+</p>
+
+## ⚡ Quick stats
+
+[![Followers](https://img.shields.io/github/followers/lokesh9460?label=Followers&style=social)](https://github.com/lokesh9460)  [![Stars](https://img.shields.io/github/stars/lokesh9460?style=social)](https://github.com/lokesh9460?tab=repositories)  [![Public Repos](https://img.shields.io/github/repo-size/lokesh9460/lokesh9460?label=Repository+size)](https://github.com/lokesh9460)
+
+## 📌 Highlights & tips
+
+- Pin your top repositories on your profile (they will appear under your bio).
+- Use GitHub pinned repos and add short descriptions and topics to each repo for better discovery.
+- If you want private contributions counted, enable "Include private contributions on my profile" in your GitHub settings (this affects some cards that support private counts).
+
+## 🛠️ How to customize
+
+- To change the theme for the cards, update the `theme` query parameter in the image URLs (examples: dark, radical, gruvbox, merko, dracula, great-gatsby, solarized-dark, solarized-light).
+- To hide or show particular cards, remove or add the corresponding `<img>` block.
+- To add more stats (PRs, issues, commits), install and configure services like `github-readme-stats` or use GitHub Actions to generate custom badges.
+
+## 📫 Connect with me
+
+- GitHub: [@lokesh9460](https://github.com/lokesh9460)
+- Email: add-your-email@example.com  <!-- replace with your email or remove -->
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lokesh_9460)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh9460&theme=tokyonight)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lokesh9460&count_private=true&theme=radical)
-
----
-
-
-
-
-
+_This README was generated and added automatically. Edit this file to personalize your profile further._
