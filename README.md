@@ -24,13 +24,20 @@
     alt="Top Languages"
   />
 </p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=lokesh9460&theme=gruvbox&hide_border=true&timezone=Asia/Kolkata&cache_seconds=86400"
     alt="GitHub Streak Stats"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=lokesh9460&theme=gruvbox&hide_border=true&timezone=Asia/Kolkata&cache_seconds=43200"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 <p align="center">
   <img
