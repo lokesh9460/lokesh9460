@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh9460&theme=gruvbox" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=lokesh9460&theme=gruvbox&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
